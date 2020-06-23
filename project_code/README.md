@@ -14,7 +14,7 @@
 ###### apt-get install -y libsm6 libxext6 libxrender-dev   
 ###### pip3 install natsort  
 
-##### Then into the PlantDisease to using the training code
+##### Then into the PlantDisease folder to using the training code
 
 
 
