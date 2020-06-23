@@ -127,7 +127,7 @@ class ENASLayer(nn.Module):
 
 
 class MicroNetwork(nn.Module):
-    def __init__(self, num_layers=2, num_nodes=5, out_channels=24, in_channels=3, num_classes=10,
+    def __init__(self, num_layers=2, num_nodes=5, out_channels=24, in_channels=3, num_classes=15,
                  dropout_rate=0.0, use_aux_heads=False):
         super().__init__()
         self.num_layers = num_layers
