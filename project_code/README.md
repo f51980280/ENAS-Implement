@@ -12,6 +12,7 @@
 ###### pip3 install opencv-python  
 ###### pip3 install natsort  
 
+###### Then into the PlantDisease to using the training code
 
 
 
