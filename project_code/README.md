@@ -8,8 +8,7 @@
 ###### pip3 install torchvision  
 ###### pip3 install imgaug  
 ###### pip3 install opencv-python  
-###### apt-get install -y libsm6 libxext6 libxrender-dev  
-###### pip3 install opencv-python  
+###### apt-get install -y libsm6 libxext6 libxrender-dev   
 ###### pip3 install natsort  
 
 ##### Then into the PlantDisease to using the training code
