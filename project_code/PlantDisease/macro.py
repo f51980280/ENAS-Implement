@@ -37,7 +37,7 @@ class ENASLayer(mutables.MutableScope):
 
 
 class GeneralNetwork(nn.Module):
-    def __init__(self, num_layers=12, out_filters=24, in_channels=3, num_classes=10,
+    def __init__(self, num_layers=12, out_filters=24, in_channels=3, num_classes=15,
                  dropout_rate=0.0):
         super().__init__()
         self.num_layers = num_layers
