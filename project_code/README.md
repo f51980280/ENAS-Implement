@@ -1,7 +1,8 @@
 #### Install  
 ###### NNI supports and is tested on Ubuntu >= 16.04, macOS >= 10.14.1, and Windows 10 >= 1809. Simply run the following pip install in an environment that has python 64-bit >= 3.5.  
 
-#### use conda 
+#### Latest Version of Anaconda
+#### we use anaconda environment for the project
 #### cuda version:10.2
 
 #### Linux or macOS  
