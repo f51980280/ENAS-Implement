@@ -11,6 +11,7 @@ https://github.com/microsoft/nni
 OS: Ubuntu 16.04
 GPU: NVIDIA Tesla V100 32GB
 cuda version:10.2
+python : 3.7.2
 ```
 ## Linux or MacOS
 ```
