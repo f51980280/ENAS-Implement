@@ -30,7 +30,7 @@ python : 3.7.2
 ##### test : testing data set
 ##### validation : validation data set
 ##### train_base_net_one_gpu.ipynb :
-##### trainer : Substitute the enas trainer in your python/site-packages/nni/nas/pytorch path
+##### trainer.py : Substitute the enas trainer in your python/site-packages/nni/nas/pytorch path
 
 
 
