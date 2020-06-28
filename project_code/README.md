@@ -9,7 +9,8 @@ https://github.com/microsoft/nni
 #### Recommend anaconda environment for the project
 #### cuda version:10.2
 
-#### Linux 
+## Linux 
+====
 ###### apt-get update  
 ###### python3 -m pip install --upgrade nni  
 ###### conda install -c pytorch torchvision cudatoolkit=10.2 pytorch
@@ -17,7 +18,7 @@ https://github.com/microsoft/nni
 ###### pip3 install opencv-python  
 ###### apt-get install -y libsm6 libxext6 libxrender-dev   
 ###### pip3 install natsort  
-
+====
 ##### We train the enas with macro or micro space in the PlantDisease folder
 
 
