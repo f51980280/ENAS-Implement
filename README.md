@@ -7,4 +7,3 @@ This project mainly discusses the Enas model performance. We compared Enas model
 ## File Structure 
  -> project_code -> PlantDisease  
                  -> README.md  
-                 -> folder...  
