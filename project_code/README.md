@@ -1,4 +1,4 @@
-## NNI & ENAS reference
+## NNI & ENAS Reference
 https://arxiv.org/abs/1802.03268  
 https://github.com/microsoft/nni
 
@@ -23,7 +23,7 @@ python : 3.7.2
  apt-get install -y libsm6 libxext6 libxrender-dev   
  pip3 install natsort  
 ```
-## File discription
+## File & Folder Discription
 ##### PlantDisease : We train the enas in macro or micro search space in this folder
 ##### model : model's saving path
 ##### train : training data set
