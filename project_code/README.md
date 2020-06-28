@@ -1,4 +1,8 @@
-#### Install  
+NNI & ENAS reference
+https://arxiv.org/abs/1802.03268
+https://github.com/microsoft/nni
+
+#### Environment Install  
 ###### NNI supports and is tested on Ubuntu >= 16.04, macOS >= 10.14.1, and Windows 10 >= 1809. Simply run the following pip install in an environment that has python 64-bit >= 3.5.  
 
 #### Latest Version of Anaconda
@@ -14,8 +18,7 @@
 ###### apt-get install -y libsm6 libxext6 libxrender-dev   
 ###### pip3 install natsort  
 
-##### We training enas with macro or micro space in the PlantDisease folder
-##### 
+##### We train the enas with macro or micro space in the PlantDisease folder
 
 
 
