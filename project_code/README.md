@@ -31,6 +31,7 @@ python : 3.7.2
 ##### validation : validation data set
 ##### train_base_net_one_gpu.ipynb :
 ##### trainer.py : Substitute the enas trainer in your python/site-packages/nni/nas/pytorch path file
+##### train_base_net_one_gpu.ipynb : Use to train base net, apply data augmentation method and evaluation.
 
 ## How to execute 
 ```
