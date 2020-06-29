@@ -32,8 +32,10 @@ python : 3.7.2
 ##### train_base_net_one_gpu.ipynb :
 ##### trainer.py : Substitute the enas trainer in your python/site-packages/nni/nas/pytorch path file
 
-
-
+## How to execute 
+```
+Goto PlantDisease folder and read its README.md
+```
 
 
 
