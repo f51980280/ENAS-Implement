@@ -18,3 +18,4 @@ python3 PlantDisease_enas.py --search-for  {macro, mirco}
 -> Add hue and saturation, value=(-10, 10)
 -> Use cutout augumentation (cutout.py in util folder) 
 ```
+##### Finally calls enas.trainer for trainging enas, if you want to set some config in training time, you shoud go there for modify
