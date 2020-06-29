@@ -16,5 +16,5 @@ python3 PlantDisease_enas.py --search-for  {macro, mirco}
 -> Rotate, angle=(-20, 20)
 -> Image Dropout, rate=0.25
 -> Add hue and saturation, value=(-10, 10)
--> Use cutout augumentation (cutout.py in previous utils folder) 
+-> Use cutout augumentation (cutout.py in util folder) 
 ```
