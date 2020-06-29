@@ -37,6 +37,9 @@ python : 3.7.2
 Goto PlantDisease folder and read its README.md
 ```
 
+## If training finish
+You can use Test_PlantDisease_model.ipynb for testing model accuracy
+
 
 
 
